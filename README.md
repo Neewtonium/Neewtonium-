@@ -24,12 +24,12 @@
 </p>
 
 
-## STEPS TO DEPLOY YOUR BOT
+## BELOW ARE TECHNIQUES WITH EXAMPLES USING CMD
 
 
 1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/fork)
 
-2, TAP ON IBRAHIM TECH APP DOWN THERE
+ <h4> Enable windows firewall<h4/>
 
 
 
