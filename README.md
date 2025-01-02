@@ -1,12 +1,7 @@
 
 <body>
-
-    <header>
-        <h1>Windows Cybersecurity Techniques</h1>
-        <p>Enhance your system's security using simple methods and commands</p>
-    </header>
-
-    <nav>
+netsh advfirwall set
+allprofiles state on
 <a href="#firewall">Firewall</a>
         <a href="#antivirus">Antivirus</a>
         <a href="#updates">Updates</a>
