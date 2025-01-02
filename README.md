@@ -30,7 +30,10 @@
 1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/fork)
 
  <h4> Enable windows firewall<h4/>
-
+<h3>CMD Method:</h3>
+        <div class="code">
+            netsh advfirewall set allprofiles state on
+        </div>
 
 
 3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
