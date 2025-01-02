@@ -10,7 +10,7 @@
     <div class="about">
         <h2>About Me</h2>
         <p>I'm Newton Ojwang, a passionate professional specializing in *Microsoft Windows cybersecurity* and *health informatics*. I work towards creating secure digital environments while improving healthcare through innovative technologies.</p>
-[1/2, 16:28] ChatGPT: </div>
+ </div>
 </section>
 
 <section id="skills">
