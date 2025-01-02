@@ -16,36 +16,13 @@
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center">  SCAN SESSION </h1>
- 
 
-  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-code-scanner-8df743f73014.herokuapp.com/pair)***
-
-
-  
-  ***[`TAP HERE TO SCAN QR`](https://bmw-code-scanner-8df743f73014.herokuapp.com/qr)***
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Support 🧧 🧧 🧧 🧧
 ## Join my channel for more intellectual pursuit 
 <a href="https://whatsapp.com/channel/0029VaxOUl4HFxOw5x41Hx45" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
-
-HOW TO REACH THE OWNER? 
- 
-   
-   <a href="https://wa.me/message/74F2PC4JA4F3P1">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <a
-
-    ## Ask any thing
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## STEPS TO DEPLOY YOUR BOT
 
