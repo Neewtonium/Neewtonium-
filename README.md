@@ -48,7 +48,7 @@
         }
         .footer a {
             color: white;
-            text-decoration:  a good  nonmargin: 0 15px;
+            text-decoration:  a good  nonmargin: 0 25px;
         }
         .icons a {
             font-size: 1.5em;
