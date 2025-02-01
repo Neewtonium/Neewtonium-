@@ -1,5 +1,5 @@
 **Detailed Notes on Cybersecurity Topics**  
-*Prepared by [Your Name]*  
+*Prepared by [Newton]*  
 
 ---
 
@@ -102,13 +102,4 @@
 **Best Practices**: Regular audits, input validation, and employee training.  
 
 ---  
-*End of Document*  
 
----
-
-**To Convert to PDF**:  
-1. Copy this text into a word processor (e.g., Microsoft Word).  
-2. Adjust formatting as needed.  
-3. Export as PDF.  
-
-Let me know if you need further refinements! 🛡️
